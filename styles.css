@@ -1,0 +1,23 @@
+.category {
+    font-size: x-large;
+}
+
+.price, .title {
+    display: inline-block;
+}
+
+.title {
+    width: 75%;
+    font-size: large;
+    font-weight: bolder;
+
+}
+
+.price {
+    width: 25%;
+    color: rgb(75, 172, 214);
+}
+
+.description {
+    width: auto;
+}
